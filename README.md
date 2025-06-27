@@ -68,7 +68,7 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 - **Spatial Position Estimation Method for 3D Ultrasound Reconstruction Based on Hybrid Transfomers** \
     [IEEE ISBI, 2022] [[Paper](https://doi.org/10.1109/ISBI52829.2022.9761499)]
 - **Stretched reconstruction based on 2D freehand ultrasound for peripheral artery imaging** \
-    [International Journal of Computer Assisted Radiology and Surgery, 2022] [[Paper](https://doi.org/10.1007/s11548-022-02636-w)]
+    [IJCARS, 2022] [[Paper](https://doi.org/10.1007/s11548-022-02636-w)]
 - **RecON: Online learning for sensorless freehand 3D ultrasound reconstruction** \
     [MedIA, 2023] [[Paper](https://doi.org/10.1016/j.media.2023.102810)] [[Code](https://github.com/Lmy0217/RecON)]
 - **Multi-IMU with Online Self-consistency for Freehand 3D Ultrasound Reconstruction** \
@@ -108,7 +108,7 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 - **IMU-Assisted Manual 3D-Ultrasound Imaging Using Motion-Constrained Swept-Fan Scans** \
     [Ultrasonic Imaging, 2025] [[Paper](https://doi.org/10.1177/01617346241242718)]
 - **3d freehand ultrasound reconstruction by reference-based point cloud registration** \
-    [International Journal of Computer Assisted Radiology and Surgery, 2025] [[Paper](https://doi.org/10.1007/s11548-024-03280-2)]
+    [IJCARS, 2025] [[Paper](https://doi.org/10.1007/s11548-024-03280-2)]
 
 ## Protocol
 - **Privileged Anatomical and Protocol Discrimination in Trackerless 3D Ultrasound Reconstruction** \
