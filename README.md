@@ -100,7 +100,7 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 - **Long-term Dependency for 3D Reconstruction of Freehand Ultrasound Without External Tracker** \
     [IEEE TBME, 2024] [[Paper](https://doi.org/10.1109/tbme.2023.3325551)] [[Code](https://github.com/ucl-candi/freehand)]
 - **Sensorless End-to-End Freehand 3-D Ultrasound Reconstruction With Physics-Guided Deep Learning** \
-    [IEEE TUFFC, 2024] [[Paper](https://doi.org/10.1109/TUFFC.2024.3465214)]
+    [IEEE TUFFC, 2024] [[Paper](https://doi.org/10.1109/TUFFC.2024.3465214)] [[Code](https://github.com/Alphafrey946/PLPPI)]
 - **Pitfalls with Neural Radiance Fields for 3D Freehand Ultrasound Reconstruction** \
     [IEEE EMBC, 2024] [[Paper](https://doi.org/10.1109/EMBC53108.2024.10781966)]
 - **Continuous Bernoulli Distribution for More Realistic Ultrasound Reconstruction with NeRF** \
