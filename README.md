@@ -9,14 +9,18 @@
 Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultrasound data by measuring the trajectory of a conventional 2D ultrasound probe as a clinician moves it across an object of interest.
 
 ## Overview
+- [Challenge](#Challenge)
 - [Review](#Review)
 - [Reconstruction](#Reconstruction)
 - [Protocol](#Protocol)
 - [System](#System)
-- [Challenge](#Challenge)
 - [Guidance](#Guidance)
 - [Interpolation](#Interpolation)
 - [Large-FOV](#Large-FOV)
+
+## Challenge
+- **Trackerless 3D Freehand Ultrasound Reconstruction (TUS-REC) Challenge** \
+    [MICCAI, 2024 & 2025] [[Website](https://github-pages.ucl.ac.uk/tus-rec-challenge)]
 
 ## Review
 - **A review of calibration techniques for freehand 3-D ultrasound systems** \
@@ -117,10 +121,6 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 ## System
 - **A Probe-Camera System for 3D Ultrasound Image Reconstruction** \
     [Imaging for Patient-Customized Simulations and Systems for Point-of-Care Ultrasound, 2017] [[Paper](https://doi.org/10.1007/978-3-319-67552-7_16)]
-
-## Challenge
-- **Trackerless 3D Freehand Ultrasound Reconstruction (TUS-REC) Challenge** \
-    [MICCAI, 2024 & 2025] [[Website](https://github-pages.ucl.ac.uk/tus-rec-challenge)]
 
 ## Guidance
 - **Automatic Probe Movement Guidance for Freehand Obstetric Ultrasound** \
