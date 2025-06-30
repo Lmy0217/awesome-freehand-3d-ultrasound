@@ -20,7 +20,7 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 
 ## Challenge
 - **Trackerless 3D Freehand Ultrasound Reconstruction (TUS-REC) Challenge** \
-    [MICCAI, 2024 & 2025] [[Website](https://github-pages.ucl.ac.uk/tus-rec-challenge)]
+    [MICCAI, 2024 & 2025] [[Website](https://github-pages.ucl.ac.uk/tus-rec-challenge)] [[Paper](https://doi.org/10.48550/arXiv.2506.21765)]
 
 ## Review
 - **A review of calibration techniques for freehand 3-D ultrasound systems** \
