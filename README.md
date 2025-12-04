@@ -90,7 +90,7 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 - **Neural implicit surface reconstruction of freehand 3D ultrasound volume with geometric constraints** \
     [MedIA, 2024] [[Paper](https://doi.org/10.1016/j.media.2024.103305)] [[Code](https://github.com/chenhbo/FUNSR)]
 - **Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction** \
-    [MICCAI, 2024] [[Paper](https://doi.org/10.1007/978-3-031-72104-5_33)]
+    [MICCAI, 2024] [[Paper](https://doi.org/10.1007/978-3-031-72104-5_33)] [[Code](https://github.com/Lmy0217/FiMA)]
 - **Nonrigid Reconstruction of Freehand Ultrasound without a Tracker** \
     [MICCAI, 2024] [[Paper](https://doi.org/10.1007/978-3-031-72083-3_64)] [[Code](https://github.com/QiLi111/NR-Rec-FUS)]
 - **Advancing Sensorless Freehand 3D Ultrasound Reconstruction with a Novel Coupling Pad** \
