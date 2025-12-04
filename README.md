@@ -20,7 +20,9 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 
 ## Challenge
 - **Trackerless 3D Freehand Ultrasound Reconstruction (TUS-REC) Challenge** \
-    [MICCAI, 2024 & 2025] [[Website](https://github-pages.ucl.ac.uk/tus-rec-challenge)] [[Paper](https://doi.org/10.48550/arXiv.2506.21765)]
+    [MICCAI, 2024] [[Website](https://github-pages.ucl.ac.uk/tus-rec-challenge/TUS-REC2024/)] [[Dataset](https://github-pages.ucl.ac.uk/tus-rec-challenge/TUS-REC2024/data.html)] [[Paper](https://doi.org/10.48550/arXiv.2506.21765)] \
+    [MICCAI, 2025] [[Website](https://github-pages.ucl.ac.uk/tus-rec-challenge)] [[Dataset](https://github-pages.ucl.ac.uk/tus-rec-challenge/data.html)]
+    
 
 ## Review
 - **A review of calibration techniques for freehand 3-D ultrasound systems** \
@@ -106,13 +108,15 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 - **Continuous Bernoulli Distribution for More Realistic Ultrasound Reconstruction with NeRF** \
     [IEEE UFFC-JS, 2024] [[Paper](https://doi.org/10.1109/UFFC-JS60046.2024.10793769)]
 - **Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning** \
-    [IEEE TMI, 2025] [[Paper](https://doi.org/10.1109/TMI.2025.3579454)] [[Code](https://github.com/pnu-amilab/US3D)]
+    [IEEE TMI, 2025] [[Paper](https://doi.org/10.1109/TMI.2025.3579454)] [[Code](https://github.com/guhong3648/MoGLo)]
 - **MoNetV2: Enhanced Motion Network for Freehand 3-D Ultrasound Reconstruction** \
     [IEEE TNNLS, 2025] [[Paper](https://doi.org/10.1109/TNNLS.2025.3573210)]
 - **IMU-Assisted Manual 3D-Ultrasound Imaging Using Motion-Constrained Swept-Fan Scans** \
     [Ultrasonic Imaging, 2025] [[Paper](https://doi.org/10.1177/01617346241242718)]
 - **3d freehand ultrasound reconstruction by reference-based point cloud registration** \
     [IJCARS, 2025] [[Paper](https://doi.org/10.1007/s11548-024-03280-2)]
+- **DualTrack: Sensorless 3D Ultrasound Needs Local and Global Context** \
+    [MICCAI ASMUS, 2025] [[Paper](https://arxiv.org/abs/2509.09530)] [[Code](https://github.com/ImFusionGmbH/DualTrack)]
 
 ## Protocol
 - **Privileged Anatomical and Protocol Discrimination in Trackerless 3D Ultrasound Reconstruction** \
