@@ -110,7 +110,7 @@ Freehand three-dimensional (3D) ultrasound is a technique for acquiring 3D ultra
 - **Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning** \
     [IEEE TMI, 2025] [[Paper](https://doi.org/10.1109/TMI.2025.3579454)] [[Code](https://github.com/guhong3648/MoGLo)]
 - **MoNetV2: Enhanced Motion Network for Freehand 3-D Ultrasound Reconstruction** \
-    [IEEE TNNLS, 2025] [[Paper](https://doi.org/10.1109/TNNLS.2025.3573210)]
+    [IEEE TNNLS, 2025] [[Paper](https://doi.org/10.1109/TNNLS.2025.3573210)] [[Code](https://github.com/Lmy0217/MoNetV2)]
 - **IMU-Assisted Manual 3D-Ultrasound Imaging Using Motion-Constrained Swept-Fan Scans** \
     [Ultrasonic Imaging, 2025] [[Paper](https://doi.org/10.1177/01617346241242718)]
 - **3d freehand ultrasound reconstruction by reference-based point cloud registration** \
